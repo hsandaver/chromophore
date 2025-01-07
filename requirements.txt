@@ -1,0 +1,8 @@
+pandas>=1.0.0
+streamlit>=1.0.0
+py3Dmol>=0.9.2
+altair>=4.0.0
+pillow>=8.0.0
+# Below is the PyPI wrapper for RDKit, which may not be available
+# for all Python versions or OS architectures.
+rdkit-pypi
